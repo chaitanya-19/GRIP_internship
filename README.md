@@ -1,2 +1,2 @@
-# rstudio-link-test
-linking rstudio with github
+#python basics for machine learning and deep learning
+
